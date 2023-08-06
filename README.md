@@ -15,3 +15,9 @@ Here's how to [build a sqlite-utils plugin](https://sqlite-utils.datasette.io/en
   - `sqlite-utils-sqlite-url`
   - `sqlite-utils-sqlite-ulid`
   - `sqlite-utils-sqlite-lines`
+  - `sqlite-utils-sqlite-http`
+  - `sqlite-utils-sqlite-html`
+  - `sqlite-utils-sqlite-jsonschema`
+  - `sqlite-utils-sqlite-fastrand`
+  - `sqlite-utils-sqlite-vss`
+
